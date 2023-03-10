@@ -31,4 +31,4 @@ Contraintes :
 hébergées en ligne.
 • Avoir la possibilité de déplacer les tâches à l’écran facilement pour une meilleure
 visibilité.
-### Langage Javascript avec le framework ReactJs 
+### Langage Javacript avec le framework ReactJs et MUI
